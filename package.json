@@ -35,7 +35,7 @@
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.1.2",
     "vue-template-compiler": "^2.6.11",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "node-sass": "^4.13.0",
     "sass-loader": "^8.0.2"
   },
